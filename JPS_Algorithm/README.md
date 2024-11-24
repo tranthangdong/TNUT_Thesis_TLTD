@@ -4,7 +4,6 @@ A global shortest path is then generated using the Jump Point Search (JPS) algor
 ##Prerequisite
 ```
 pip install scipy
-```
 pip install numpy
-```
 pip install matplotlib
+```
